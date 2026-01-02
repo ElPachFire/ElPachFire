@@ -23,7 +23,7 @@ A **Software Engineering Student** 🚀 from Tuluá, Colombia
 - 🤔 My interests are cybersecurity, the management and creation of databases and the development of useful things and great stuff hahaha
 - 💼 I am pursuing a professional degree in Systems Engineering and I am in the seventh semester.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at arangojuanpablo129@gmail.com](mailto:arangojuanpablo129@gmail.com).
+- 📫 Email me at arangojuanpablo129@gmail.com.
 
 
 **Languages and Tools:**  
